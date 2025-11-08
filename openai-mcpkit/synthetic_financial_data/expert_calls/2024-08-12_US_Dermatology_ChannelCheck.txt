@@ -1,0 +1,20 @@
+---
+Call Date: 2024-08-12
+Moderator: Lane Research Primary Insights
+Participants:
+  - Buy-Side Analyst (BSA)
+  - Former VP Sales, Dermalux Biologics (Expert)
+Sector: Specialty Pharma / Dermatology
+Ticker Focus: DLX, ANTX
+Duration: 47 minutes
+
+[00:02] BSA: How is the step therapy landscape evolving for DLX's plaque psoriasis franchise?
+[00:05] Expert: Two large PBMs loosened prior-auth last quarter; scripts +11% sequential in my old region.
+[00:11] BSA: Any color on net price?
+[00:13] Expert: Rebate depth stable—mid 40s as percent of list. DLX is leaning on outcomes-based deals in the Midwest pilot.
+[00:21] BSA: Are you seeing competitive share shifts versus ANTX's injector?
+[00:23] Expert: ANTX still constrained on manufacturing; backorders through October. Dermalux field teams using nurse navigators to win restarts.
+[00:31] BSA: Launch cadence for subcutaneous formulation?
+[00:33] Expert: Training under way; sample kits land late September. Expect national go-live October 14 if quality batch passes.
+[00:39] BSA: Anything concerning?
+[00:41] Expert: Watch coupon burn. Patient assistance grew 18% YoY; finance flagged it last town hall.

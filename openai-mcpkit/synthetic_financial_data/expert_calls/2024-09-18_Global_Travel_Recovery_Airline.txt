@@ -1,0 +1,38 @@
+---
+Call Date: 2024-09-18
+Moderator: Meridian Insights Primary Research
+Participants:
+  - Senior Analyst, Summit Peak Capital (Analyst)
+  - EVP Network Planning, Altiora Airlines (Expert)
+Sector: Global Travel & Leisure - Airlines
+Duration: 32 minutes
+
+[00:01] Analyst: Thanks for hopping on. How are Q4 bookings tracking versus where you were pre-COVID?
+[00:04] Expert: Better than we expected, honestly. System load factor is pacing 91% versus 89% in Q4 2019, and the trans-Atlantic premium cabin is running three points hotter. Domestic corporate is back to where it was, just not climbing higher yet.
+
+[00:12] Analyst: Any pockets that feel soft?
+[00:13] Expert: Sun leisure is a touch cooler after Labor Day, but we plugged the gap with visiting friends and relatives traffic. The only real drag is West Coast tech corporates—they're still down about 22% compared to 2019.
+
+[00:21] Analyst: Let's talk fuel. How much of Q4 is locked in?
+[00:23] Expert: We've hedged 58% of the quarter at a $2.67 per gallon equivalent. We're barely touching Q1 for now—only about half covered—because European refinery maintenance could keep crack spreads jumpy. I'd rather stay flexible.
+
+[00:33] Analyst: Are ATC bottlenecks still forcing schedule tweaks?
+[00:35] Expert: Yeah, Jacksonville Center and the New York corridor are still messy. We're padding block times by four minutes on average, and we built a spare crew buffer on peak days so we don't strand people.
+
+[00:45] Analyst: Any new long-haul routes you're willing to call out?
+[00:47] Expert: We're adding three weekly flights to Porto and Prague this winter. Heathrow slot grandfathering is still a question mark, so we pulled a 787 off JFK-Manchester and pointed it at JFK-Limassol as a seasonal play.
+
+[00:58] Analyst: How much Asia capacity is back online?
+[01:00] Expert: Japan is basically all the way back—our SFO-Haneda flights are running at a 94% load factor. China is still capped by bilateral limits, so we're at roughly 60% of where we were pre-pandemic.
+
+[01:11] Analyst: What's happening with the corporate mix overall?
+[01:13] Expert: Managed corporate revenue is 74% recovered. Energy, consulting, and government are actually above 2019, while tech is the only one holding the aggregate back. Small and mid-sized accounts are quietly filling the gaps.
+
+[01:25] Analyst: Where are you putting capital next year?
+[01:27] Expert: We've earmarked about $1.4 billion through 2025 for narrowbody retrofits—think premium cabin refresh, lie-flat installs, and new galleys. Once we finish the program, we expect a 110 basis point bump to blended ROIC.
+
+[01:38] Analyst: Any big worries you're tracking into 2026?
+[01:40] Expert: Pilot pipeline, hands down. We have a ton of retirements coming, and even though we doubled cadet academy seats, simulators are booked solid. We're trying to lock in more training capacity before the majors poach everyone.
+
+[01:52] Analyst: Before we wrap, what's the one thing investors might be missing?
+[01:54] Expert: Demand feels solid, but the margin story comes down to how disciplined we stay with capacity and labor. The minute we chase share blindly, the math falls apart.

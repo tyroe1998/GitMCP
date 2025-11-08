@@ -1,0 +1,111 @@
+{
+  "week": "2024-W36",
+  "regions": {
+    "US": {
+      "top_queries": [
+        {
+          "keyword": "iphone 16 pro preorder deposits",
+          "index": 93,
+          "implied_unit_sales_impact": 0.18,
+          "linked_tickers": [
+            "AAPL",
+            "AVGO",
+            "QCOM"
+          ]
+        },
+        {
+          "keyword": "macbook air m4 lead times",
+          "index": 82,
+          "implied_unit_sales_impact": 0.07,
+          "linked_tickers": [
+            "AAPL",
+            "TSM",
+            "LITE"
+          ]
+        },
+        {
+          "keyword": "roku ultra max walmart",
+          "index": 58,
+          "implied_unit_sales_impact": 0.05,
+          "linked_tickers": [
+            "ROKU",
+            "WMT",
+            "AMZN"
+          ]
+        }
+      ],
+      "channel_checks": "Carrier partners are layering richer trade-in credits while big-box retailers reset premium streaming hardware endcaps."
+    },
+    "Europe": {
+      "top_queries": [
+        {
+          "keyword": "philips hue line refresh",
+          "index": 39,
+          "implied_unit_sales_impact": 0.03,
+          "linked_tickers": [
+            "PHIA",
+            "AAPL",
+            "AMZN"
+          ]
+        },
+        {
+          "keyword": "anker solix balcony battery",
+          "index": 43,
+          "implied_unit_sales_impact": 0.04,
+          "linked_tickers": [
+            "300866.SZ",
+            "ADS.DE",
+            "IFX.DE"
+          ]
+        },
+        {
+          "keyword": "lenovo legion go refresh",
+          "index": 46,
+          "implied_unit_sales_impact": 0.02,
+          "linked_tickers": [
+            "992.HK",
+            "MSFT",
+            "NVDA"
+          ]
+        }
+      ],
+      "channel_checks": "DACH region distributors call out gaming handheld demand despite lingering inventory for legacy models."
+    },
+    "Asia": {
+      "top_queries": [
+        {
+          "keyword": "samsung fold6 preorder momentum",
+          "index": 78,
+          "implied_unit_sales_impact": 0.09,
+          "linked_tickers": [
+            "005930.KS",
+            "HIMX",
+            "QRVO"
+          ]
+        },
+        {
+          "keyword": "xiaomi mix fold 4 debut",
+          "index": 66,
+          "implied_unit_sales_impact": 0.06,
+          "linked_tickers": [
+            "1810.HK",
+            "BOE",
+            "SSNLF"
+          ]
+        },
+        {
+          "keyword": "oppo reno 12 global launch",
+          "index": 55,
+          "implied_unit_sales_impact": 0.04,
+          "linked_tickers": [
+            "OPPO",
+            "QCOM",
+            "SONY"
+          ]
+        }
+      ],
+      "channel_checks": "Asian OEM partners are accelerating foldable pilots and firming component allocations ahead of Golden Week."
+    }
+  },
+  "notes": "Normalized Google Trends style score scaled 0-100 using finance team watchlist queries."
+}

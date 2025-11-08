@@ -1,0 +1,27 @@
+snapshot_date,route,airline,season,avg_fare_usd,premium_fare_usd,fare_yoy_pct,advance_purchase_days,load_factor_pct,ancillary_revenue_pct,notable_driver
+2024-09-08,JFK-LAX,Delta Air Lines,Summer 2024,438,712,5.4,24,89,19,Premium leisure upsell tests on transcon suites
+2024-09-08,JFK-LAX,United Airlines,Summer 2024,422,705,4.8,23,87,18,Expanded Polaris availability on redeyes
+2024-09-08,JFK-LAX,American Airlines,Summer 2024,415,698,3.9,26,88,17,Corporate contracts shift post tech conference cycle
+2024-09-08,JFK-LAX,JetBlue Airways,Summer 2024,368,599,2.7,21,84,16,Blue Extra flash sale for midweek departures
+2024-09-08,ORD-SFO,United Airlines,Summer 2024,352,589,6.1,20,90,18,Chicago fintech events boosting close-in demand
+2024-09-08,ORD-SFO,American Airlines,Summer 2024,339,571,5.5,18,88,17,Silicon Valley shuttle bundle with loyalty accelerator
+2024-09-08,ATL-SEA,Delta Air Lines,Summer 2024,318,558,6.8,19,91,18,Amazon fulfillment shifts driving crew ferry demand
+2024-09-08,ATL-SEA,Alaska Airlines,Summer 2024,305,546,6.1,17,87,16,Free bag promo tied to new credit card partner
+2024-09-08,DFW-DEN,American Airlines,Summer 2024,246,412,4.2,16,84,14,Energy sector site visits pull fares higher
+2024-09-08,DFW-DEN,Southwest Airlines,Summer 2024,238,0,3.5,15,82,21,All-in Wanna Get Away Plus fares laddered with same day change
+2024-09-08,BOS-MCO,Delta Air Lines,Summer 2024,236,415,7.6,22,86,23,School break spillover extends into late August
+2024-09-08,BOS-MCO,JetBlue Airways,Summer 2024,229,387,6.9,20,85,24,Expanded Mint weekend block hours
+2024-09-08,LAX-HNL,United Airlines,Summer 2024,462,811,8.2,28,92,27,Japan inbound demand pushing Hawaii connectors
+2024-09-08,LAX-HNL,Hawaiian Airlines,Summer 2024,455,799,7.5,27,91,29,Main Cabin Preferred upsell ahead of new 787 entry
+2024-09-08,JFK-LAX,Delta Air Lines,Winter 2024,392,664,6.9,32,84,20,New Year leisure demand overlaps CES corridors
+2024-09-08,ORD-SFO,United Airlines,Winter 2024,331,555,5.1,28,86,19,Enterprise tech kickoff travel returns to office cores
+2024-09-08,ATL-SEA,Delta Air Lines,Winter 2024,297,524,5.8,26,88,18,Semiconductor buildout visits lift weekday loads
+2024-09-08,DFW-DEN,American Airlines,Winter 2024,228,386,3.7,24,82,15,Oil patch maintenance crews shorten booking curve
+2024-09-08,BOS-MCO,Delta Air Lines,Winter 2024,248,428,8.4,30,87,22,Snowbird volume spikes after Nor'easter forecast
+2024-09-08,LAX-HNL,United Airlines,Winter 2024,438,768,7.3,34,90,26,Waikiki renovation keeps premium cabin tight
+2024-09-08,JFK-LAX,Delta Air Lines,Spring 2025,406,681,4.1,25,86,19,Corporate travel lane reopens for fashion week runup
+2024-09-08,ORD-SFO,American Airlines,Spring 2025,344,576,4.6,22,87,18,AI developer conferences bundle in shoulder weeks
+2024-09-08,ATL-SEA,Delta Air Lines,Spring 2025,309,541,5.2,21,89,17,Logistics automation expos draw multi day passes
+2024-09-08,DFW-DEN,Southwest Airlines,Spring 2025,232,0,3.4,19,83,20,New interline portal smooths SMB bookings
+2024-09-08,BOS-MCO,JetBlue Airways,Spring 2025,234,393,5.7,24,85,23,Disney private event charters tighten Saturday seats
+2024-09-08,LAX-HNL,Hawaiian Airlines,Spring 2025,447,786,6.6,29,91,28,Japan code-share inventory staged for Golden Week

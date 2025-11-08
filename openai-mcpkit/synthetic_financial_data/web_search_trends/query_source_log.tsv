@@ -1,0 +1,4 @@
+# week_id	provider	collection_window	query_count	processing_notes
+2024-W36	AlphaSearchSignals	2024-09-01/2024-09-07	1843	Filtered for finance-relevant categories; applied 3-day moving average.
+2024-W36	RetailClickstreamLabs	2024-09-02/2024-09-05	612	Excludes branded coupon code traffic.
+2024-W36	QuoraPulse	2024-09-01/2024-09-06	198	Down-weighted anonymous responses to 0.6x.

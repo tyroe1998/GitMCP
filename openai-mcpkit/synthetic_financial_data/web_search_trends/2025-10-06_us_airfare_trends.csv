@@ -1,0 +1,42 @@
+snapshot_date,route,airline,season,avg_fare_usd,premium_fare_usd,fare_yoy_pct,advance_purchase_days,load_factor_pct,ancillary_revenue_pct,notable_driver
+2025-10-06,JFK-LAX,Delta Air Lines,Summer 2025,452,738,6.1,23,91,21,Refreshed A321neo premium suites driving upsell mix
+2025-10-06,JFK-LAX,United Airlines,Summer 2025,444,729,5.4,22,90,19,Polaris daytime block restored for finance commuting
+2025-10-06,JFK-LAX,American Airlines,Summer 2025,437,718,4.6,25,89,18,Tech media upfronts sustained corporate shuttle demand
+2025-10-06,JFK-LAX,JetBlue Airways,Summer 2025,383,612,3.8,21,86,17,Paired Mint flash bundles with Barclays co-brand roll-out
+2025-10-06,ORD-SFO,United Airlines,Summer 2025,366,608,6.8,19,92,20,AI developer summit weeks filled premium cabin
+2025-10-06,ORD-SFO,American Airlines,Summer 2025,354,593,6.1,18,90,18,Hybrid work anchor days concentrate Monday returns
+2025-10-06,ATL-SEA,Delta Air Lines,Summer 2025,331,579,7.5,18,93,19,Amazon Prime Day ops repositioning upped close-in fares
+2025-10-06,ATL-SEA,Alaska Airlines,Summer 2025,322,566,6.9,16,90,17,Seattle cruise departures layered with AS credit card lift
+2025-10-06,DFW-DEN,American Airlines,Summer 2025,258,431,4.9,16,86,15,Rockies resort partnerships extended shoulder travel
+2025-10-06,DFW-DEN,Southwest Airlines,Summer 2025,247,0,4.2,15,84,22,Dynamic seating upsell tied to same-day standby perks
+2025-10-06,BOS-MCO,Delta Air Lines,Summer 2025,244,431,8.1,21,88,24,Massachusetts school calendar shift kept August peaks
+2025-10-06,BOS-MCO,JetBlue Airways,Summer 2025,238,403,7.4,20,87,25,Even More Space bundles paired with Disney dining promo
+2025-10-06,LAX-HNL,United Airlines,Summer 2025,478,833,8.9,26,94,29,Post-Olympics West Coast inbound filled widebodies
+2025-10-06,LAX-HNL,Hawaiian Airlines,Summer 2025,471,822,8.1,25,93,31,New 787 galley layout added buy-on-board options
+2025-10-06,JFK-LAX,Delta Air Lines,Fall Shoulder 2025,418,702,5.2,28,87,22,Fashion week travel overlaps with streaming premieres
+2025-10-06,JFK-LAX,United Airlines,Fall Shoulder 2025,406,694,4.6,27,86,20,Wall Street earnings roadshows tightened premium
+2025-10-06,ORD-SFO,United Airlines,Fall Shoulder 2025,338,577,5.9,24,88,21,Enterprise AI pilots push biweekly shuttles
+2025-10-06,ORD-SFO,Alaska Airlines,Fall Shoulder 2025,327,566,5.1,22,86,18,OneWorld feed boosts Bay Area biotech visits
+2025-10-06,ATL-SEA,Delta Air Lines,Fall Shoulder 2025,314,553,6.4,23,90,20,Space industry supplier tours expand ATL hub draws
+2025-10-06,ATL-SEA,Alaska Airlines,Fall Shoulder 2025,305,544,5.8,21,88,18,PNW foliage travel packages added bag revenue
+2025-10-06,DFW-DEN,American Airlines,Fall Shoulder 2025,241,401,4.1,21,84,16,Energy hedge conferences cluster in early October
+2025-10-06,DFW-DEN,Southwest Airlines,Fall Shoulder 2025,234,0,3.6,20,83,21,Corporate Anytime bundles highlight carbon offsets
+2025-10-06,BOS-MCO,Delta Air Lines,Fall Shoulder 2025,231,412,7.3,25,86,25,Family traveler loyalty match nearing capacity limits
+2025-10-06,BOS-MCO,JetBlue Airways,Fall Shoulder 2025,226,387,6.7,23,85,26,Massport incentive drives weekend sun runs
+2025-10-06,LAX-HNL,United Airlines,Fall Shoulder 2025,452,782,7.6,30,92,28,Japan inbound tour operators pre-blocked seats
+2025-10-06,LAX-HNL,Hawaiian Airlines,Fall Shoulder 2025,446,774,7.0,29,91,30,Mainland co-branded card launches spur trip add-ons
+2025-10-06,JFK-LAX,Delta Air Lines,Holiday Peak 2025,441,728,6.3,33,89,23,CES attendee surge overlaps with award blackout
+2025-10-06,JFK-LAX,American Airlines,Holiday Peak 2025,429,715,5.7,31,88,21,Coast-to-coast film releases drive talent travel
+2025-10-06,ORD-SFO,United Airlines,Holiday Peak 2025,349,595,6.4,29,90,22,Silicon Valley reorgs mandate year-end town halls
+2025-10-06,ATL-SEA,Delta Air Lines,Holiday Peak 2025,326,566,6.9,27,92,21,Microsoft holiday builds extend premium demand
+2025-10-06,DFW-DEN,American Airlines,Holiday Peak 2025,253,419,4.5,26,85,17,Mountain opening weekends pull premium leisure
+2025-10-06,DFW-DEN,Southwest Airlines,Holiday Peak 2025,244,0,3.9,24,84,22,Ski bag fee waiver tested on peak Saturday flights
+2025-10-06,BOS-MCO,Delta Air Lines,Holiday Peak 2025,257,438,8.6,28,88,26,Early snow season accelerates Florida shoulder escapes
+2025-10-06,LAX-HNL,United Airlines,Holiday Peak 2025,468,814,8.2,33,93,29,Premium cabin held tight for corporate incentive trips
+2025-10-06,LAX-HNL,Hawaiian Airlines,Holiday Peak 2025,461,806,7.6,32,92,32,Expanded leis-and-lounge package adds high-margin sales
+2025-10-06,JFK-LAX,Delta Air Lines,Spring 2026 Preview,412,707,4.3,26,88,22,Streaming media upfronts penciled into Q2 calendars
+2025-10-06,ORD-SFO,United Airlines,Spring 2026 Preview,336,572,4.9,24,87,21,San Francisco AI lab expansions queue traveler pods
+2025-10-06,ATL-SEA,Delta Air Lines,Spring 2026 Preview,307,538,5.1,23,89,19,Logistics automation tours reserve block seats
+2025-10-06,DFW-DEN,Southwest Airlines,Spring 2026 Preview,236,0,3.1,22,82,20,Corporate portal adoption stabilizes fare laddering
+2025-10-06,BOS-MCO,JetBlue Airways,Spring 2026 Preview,229,392,5.2,24,84,25,New Epic Universe previews lift Orlando weekend fares
+2025-10-06,LAX-HNL,Hawaiian Airlines,Spring 2026 Preview,439,780,6.1,28,91,30,Golden Week charter demand books ahead via ANA

@@ -1,0 +1,25 @@
+---
+Call Date: 2024-09-03
+Moderator: Delphic Expert Network
+Participants:
+  - Portfolio Manager, BlueCrest Special Situations (PM)
+  - Former COO, Volterra Mobility (Expert A)
+  - Head of Procurement, Alpine Battery Systems (Expert B)
+Sector: EV / Battery Supply Chain (EU)
+Duration: 62 minutes
+
+[00:04] PM: What are the September quarter production run-rates versus plan?
+[00:06] Expert A: Volterra is tracking 9% below build schedule; magnesium casting throughput is the choke point.
+[00:12] Expert B: Our pouch cell plant is at 88% utilization; we are diverting 12% of lines to energy storage contracts.
+
+[00:18] PM: How are German OEM incentives shaping retail demand?
+[00:20] Expert A: Berlin scrapped the Umweltbonus early; showroom traffic off 15% m/m. Fleets waiting for chassis refresh before ordering.
+
+[00:29] PM: Any component shortages we should watch?
+[00:30] Expert B: Separator film is tight again. Pricing up 6% QoQ. We're testing a Korean supplier but qualification needs 90 days.
+
+[00:41] PM: Update on Chinese imports and pricing? 
+[00:43] Expert A: Tariff chatter already depressing pricing—Changan quoting 12% below Q2 on mid-size SUVs to move units before policy shift.
+
+[00:54] PM: How are you planning for 2025 allocations?
+[00:55] Expert B: Prioritizing stationary storage customers; they accept floating indexes. Auto OEMs want fixed price, so we are pushing surcharge clauses.
